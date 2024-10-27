@@ -1,6 +1,6 @@
 # screen share not working
 1. #### check 
-- setting -> `-` System -> `-` about -> `-` system -> `-` detalis
+````.```` setting -> ````.```` System -> ````.```` about -> ````.```` system -> ````.```` detalis
 
 #### if your windowing system is  Wayland follow next step
 
