@@ -1,5 +1,5 @@
 # Unable-disk-access
-1.#### check your disk
+1. #### check your disk
  ```sh 1
  sudo fdisk -l
  ```
