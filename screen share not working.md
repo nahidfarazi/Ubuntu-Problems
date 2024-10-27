@@ -9,7 +9,9 @@ setting -> System -> about -> system -> detalis
 sudo nano /etc/gdm3/custom.conf
 ```
 3. ### change 
-  #WaylandEnable=false to WaylandEnable=false
+ ``
+ #WaylandEnable=false to WaylandEnable=false
+ ``
 ```sh
 sudo reboot
 ```
