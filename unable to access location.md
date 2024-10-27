@@ -10,7 +10,7 @@ sudo apt install nfs-common && sudo apt install cifs-utils
 ```
 3. ### fix your disk 
 ```sh 4
-sudo ntfsfix -d /dev/<your disk name>
+sudo ntfsfix -d /dev/<your partition name>
 ```
 ### example
 ``
