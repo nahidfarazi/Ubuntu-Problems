@@ -6,7 +6,7 @@
  ```
 2. ### insall package
  ```sh 2
-sudo apt install nfs-common &&  sudo apt install cifs-utils
+sudo apt install nfs-common && sudo apt install cifs-utils
 ```
 3. ### fix your disk 
 ```sh 4
