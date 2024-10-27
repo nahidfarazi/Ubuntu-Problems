@@ -1,8 +1,8 @@
 # screen share not working
 1. #### check 
-setting -> System -> about -> system -> detalis
+- setting -> - System -> - about -> - system -> - detalis
 
-#### if windowing system is  Wayland follow next step
+#### if your windowing system is  Wayland follow next step
 
 2. ### open terminal
 ```sh
