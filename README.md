@@ -1,14 +1,14 @@
 # Unable-disk-access
 
- ```sh 
+ ```sh 1
  sudo fdisk -l
  ```
- ```sh
+ ```sh 2
 sudo apt install nfs-common
 ```
- ```sh 
+ ```sh 3
  sudo apt install cifs-utils
  ```
-```sh
+```sh 4
 sudo ntfsfix -d /dev/<your disk name>
 ```
