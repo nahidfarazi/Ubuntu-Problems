@@ -12,3 +12,7 @@ sudo apt install nfs-common && sudo apt install cifs-utils
 ```sh 4
 sudo ntfsfix -d /dev/<your disk name>
 ```
+### example
+``sh
+sudo ntfsfix -d /dev/sda10
+``
