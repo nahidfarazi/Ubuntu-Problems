@@ -4,9 +4,7 @@
 ```sh
 sudo nano /etc/ssh/sshd_config
 ```
-```
-uncomment port and PasswordAuthentication
-```
+## uncomment port and PasswordAuthentication
 2. ### change like
 ```
 #port 22 to port 22
