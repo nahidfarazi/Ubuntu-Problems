@@ -10,7 +10,11 @@ sudo nano /etc/ssh/sshd_config
 #port 22 to port 22
 #PasswordAuthentication yes  to PasswordAuthentication yes
 ```
-3. ### Reboot your System
+3. ### remove ssh host key
+```ssh
+sudo rm /etc/ssh/ssh_host_*
+```
+4. ### Reboot your System
 ```sh
 sudo reboot
 ```
